@@ -1,0 +1,16 @@
+.btn-tambah {
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+.select {
+    margin: 15px 0px;
+    border-radius: 5px;
+    border-width: 5px;
+    color: black;
+    background-color: yellow;
+    border-color: yellow;
+    font-weight: bold;
+}
