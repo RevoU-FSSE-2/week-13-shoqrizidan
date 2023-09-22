@@ -77,7 +77,7 @@ const Login: React.FC = () => {
             <Field as={Input} className='field' type="password" id="password" name="password" />
             <ErrorMessage name="password" component="div" className="error" />
           </div>
-          <Button href='/category' className='sub-bt' type="primary" htmlType="submit" onClick={() => handleLogin(formData)}
+          <Button className='sub-bt' type="primary" htmlType="submit" onClick={() => handleLogin(formData)}
            >Login
           </Button>
 
